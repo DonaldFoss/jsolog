@@ -1,0 +1,21 @@
+{
+  "name": "jsolog",
+  "version": "0.0.1",
+  "description": "Syslog implementation for JSON receiving",
+  "main": "jsolog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node jsolog.js"
+  },
+  "keywords": [
+    "syslog",
+    "rsyslog",
+    "syslogd",
+    "node",
+    "json"
+  ],
+  "author": "gwer",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
